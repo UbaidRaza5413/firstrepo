@@ -1,3 +1,3 @@
 # firstrepo
 This is my first repository
-author:Ubaid Raza
+Author:Ubaid Raza
